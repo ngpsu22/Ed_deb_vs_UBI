@@ -1,1 +1,1 @@
-# Ed_deb_vs_UBI
+# Ed_debt_vs_UBI
